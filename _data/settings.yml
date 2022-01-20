@@ -1,5 +1,5 @@
 
-- {name: 'publ', url: '/publications'}
+- {name: 'publications', url: '/publications'}
 - {name: 'work', url: '/work'}
 - {name: 'visualizations', url: '/visualizations'}
 
