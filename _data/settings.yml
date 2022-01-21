@@ -1,3 +1,4 @@
+menu:
 - {name: 'work', url: '/work'}
 - {name: 'visualizations', url: '/visualizations'}
 
