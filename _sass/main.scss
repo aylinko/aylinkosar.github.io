@@ -9,8 +9,12 @@ body {
   font-family: $bodyFont;
 }
 
-body a {
-    background:
+:root {
+  --mainColor: #ff9800;
+}
+
+a {
+  background:
      linear-gradient(
        to bottom,
        var(--mainColor) 0%,
