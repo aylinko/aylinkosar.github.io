@@ -3,12 +3,13 @@ $bodyColor: #000000;
 $bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
 $linkColor: #212529 !important;
 
-body {
-  background: $backgroundColor;
-  color: $bodyColor;
-  font-family: $bodyFont;
-}
-
 body a {
-  color: $linkColor
+  Color: $linkColor;
+  text-decoration:none;
+  border-bottom: 4px solid #F00 // make the underline the color and thickness you want here, as in example code
 }
+body a::hover {
+  text-decoration:none;
+  background-color: // add the background color you want here. You may not want to keep the underline as above, in which case you’d just want to add the below:
+  border-bottom: none;
+}`
