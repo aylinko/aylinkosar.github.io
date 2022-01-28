@@ -1,6 +1,5 @@
 - title: 'Analysis of Terror in the World, Personal Project, Feburary 2019'
-  description: 'The data set contained data from 1970 to 2017. The intent was to find out where and when most attacks occured, who is the most targeted, which terrorist group attacks the most, and the nationality of the terrorists. <a href="aylinko.github.io/globalterrorism">Link </a>'
-  
+  description: 'The data set contained data from 1970 to 2017. The intent was to find out where and when most attacks occured, who is the most targeted, which terrorist group attacks the most, and the nationality of the terrorists. <a href="http://aylinko.github.io/globalterrorism/">Link </a>'
 
 - title: 'Determining the Main Factors for Recidivism in Boston, Masters Capstone, September - December 2018'
   description: 'Recidivism was analyzed and visualized by using a combination of prison and frisk data. The goal was to find out why recividism occurs in Boston. Link: github.com/aylinko/bostonrecidivism' 
