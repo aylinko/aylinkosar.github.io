@@ -11,7 +11,7 @@ body {
 
 body a {
     background-color: transparent;
-    color: $linkColor;
+    color: inherit;
     text-decoration: none;
     transition: background .15s cubic-bezier(.33,.66,.66,1);
     border-bottom: 3px solid #b4e7f8;
