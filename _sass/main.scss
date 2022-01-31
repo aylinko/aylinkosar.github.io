@@ -6,11 +6,11 @@ $linkColor: #212529 !important;
 body a {
   Color: $linkColor;
   text-decoration:none;
-  border-bottom: 4px solid #fff5f5;
+  border-bottom: 4px solid #ffe1e1;
 }
 
 body a:hover {
   text-decoration:none;
-  background-color: #fff5f5;
+  background-color: #ffe1e1;
   border-bottom: none;
 }
