@@ -1,4 +1,4 @@
-url: "https://aylinko.github.io/sample-site3/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aylinko.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Aylin Kosar" # the name of your site, e.g. ACME Corp.
 description: ""
