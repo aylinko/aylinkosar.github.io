@@ -12,17 +12,19 @@ Now, I am interested in using my diverse skills, background, and abilities to pr
 <br>
 
 
-  SERVICES                                                  |       TECH      
------------------------------------------------------------|:----------------:
- Data Visualization                                        |   R / R Studio   
- Data Analysis                                             | Python / Jupyter 
- Tutor & Teach (Analytics, Programming, and Visualization) |      Tableau     
- Research                                                  | LaTex / Texmaker 
- Writing                                                   |                  
- Photography                                               |                  
-Travel Planning                                           |                  
-
-
+ **SERVICES**                                               | **TECH**          
+:----------------------------------------------------------:|:-----------------:
+  Data Visualization                                        |  R / R Studio     
+  Data Analysis                                             | Python / Jupyter  
+  Tutor & Teach (Analytics, Programming, and Visualization) |  Tableau          
+  Research                                                  | LaTex / Texmaker  
+  Writing                                                   |                   
+  Photography                                               |                   
+ Travel Planning                                            |                   
+    
+        
+<br>
+<br>
 
 
 **SERVICES**                                                            
