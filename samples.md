@@ -1,0 +1,4 @@
+---
+layout: samples
+title: "Samples"
+---
