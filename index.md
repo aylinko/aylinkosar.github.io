@@ -8,3 +8,38 @@ A little about me, in 2019 I received a Masters in Information Technology and An
 Currently, I am job hunting for any position, ideally outside of academia, while working on a personal project. My project is a site to help individuals learn how to program in R, Python and how to use Tableau. 
 
 Other than the above, when I am not working on something, I enjoy taking a break by watching Netflix and travel to as many places as I can, internationally and locally, whenever there is a chance to. 
+
+
+
+**SERVICES**
+
+***
+
+Data Visualization
+
+***
+
+Data Analysis
+
+***
+
+Tutor & Teach (Analytics, Programming, and Visualization)
+
+***
+
+Research
+
+***
+
+Writing
+
+***
+
+Photography
+
+***
+
+Travel Planning
+
+***
+
