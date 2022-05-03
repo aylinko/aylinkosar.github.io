@@ -3,44 +3,43 @@ layout: home
 title: "Home"
 ---
 
-A little about me, in 2019 I received a Masters in Information Technology and Analytics from Rutgers University. My experience includes teaching two online graduate level courses, Big Data Analytics and Visualization and Special Topic in Management: Analytics and Visualization, at the School of Business at Rutgers University - Camden during the Fall 2019 and Fall 2021 semester. For both courses, the students were taught how to use R for data analytics, visualize data, analyze and create machine learning models, in addition to creating visualizations and a dashboard using Tableau. 
+As you already know, my name is Aylin, based in the USA. In 2019, I received a Masters in Information Technology and Analytics from Rutgers University and started out in academia. First by analyzing data and using creative skills such as editing and recording video content for educational Youtube videos for one department at Rutgers while working on my Masters degree. Once I graduated with my Masters, I moved on to teaching first by becoming a Teaching Assistant and then eventually a Lecturer at the School of Business at Rutgers University - Camden. As a Lecturer, I taught mainly data cleaning, data analytics, and visualization using R and Tableau to grad students.  
 
-Currently, I am job hunting for any position, ideally outside of academia, while working on a personal project. My project is a site to help individuals learn how to program in R, Python and how to use Tableau. 
+Now, I am interested in using my diverse skills, background, and abilities to provide freelancing services that would best service individuals. As a freelancer, I can provide quality analysis and visualizations for those who need analytic work done or anything that is needed to help you have a successful business. 
 
-Other than the above, when I am not working on something, I enjoy taking a break by watching Netflix and travel to as many places as I can, internationally and locally, whenever there is a chance to. 
+<br></br>
+<br></br>
 
 
+**SERVICES**                                                            
 
-
-**SERVICES**
-
---
+---
 
 Data Visualization
 
--- 
+--- 
 
 Data Analysis
 
-**
+--- 
 
 Tutor & Teach (Analytics, Programming, and Visualization)
 
-**
+--- 
 
 Research
 
-**
+--- 
 
 Writing
 
-**
+--- 
 
 Photography
 
-**
+--- 
 
 Travel Planning
 
-**
+--- 
 
