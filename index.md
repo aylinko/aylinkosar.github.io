@@ -7,8 +7,9 @@ As you already know, my name is Aylin, based in the USA. In 2019, I received a M
 
 Now, I am interested in using my diverse skills, background, and abilities to provide freelancing services that would best service individuals. As a freelancer, I can provide quality analysis and visualizations for those who need analytic work done or anything that is needed to help you have a successful business. 
 
-<br></br>
-<br></br>
+<br>
+<br>
+<br>
 
 
 **SERVICES**                                                            
