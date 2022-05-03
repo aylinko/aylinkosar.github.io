@@ -18,50 +18,40 @@ Now, I am interested in using my diverse skills, background, and abilities to pr
 Data Visualization
 
 --- 
-
 Data Analysis
 
 --- 
-
 Tutor & Teach (Analytics, Programming, and Visualization)
 
 --- 
-
 Research
 
 --- 
-
 Writing
 
 --- 
-
 Photography
 
 --- 
-
 Travel Planning
 
 --- 
 
 <br>
 <br>
-<br>
 
 **TECH**                                                            
 
 ---
-
 R / R Studio
 
 --- 
 Python / Jupyter
 
 --- 
-
 Tableau
 
 --- 
-
 LaTex / Texmaker
 
 --- 
