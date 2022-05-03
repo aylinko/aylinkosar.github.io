@@ -9,10 +9,9 @@ Now, I am interested in using my diverse skills, background, and abilities to pr
 
 <br>
 <br>
-<br>
 
 
- **SERVICES**                                               | **TECH**          
+ SERVICES                                                   | TECH         
 :----------------------------------------------------------:|:-----------------:
   Data Visualization                                        |  R / R Studio     
   Data Analysis                                             | Python / Jupyter  
@@ -20,12 +19,10 @@ Now, I am interested in using my diverse skills, background, and abilities to pr
   Research                                                  | LaTex / Texmaker  
   Writing                                                   |                   
   Photography                                               |                   
- Travel Planning                                            |                   
-    
-        
+ Travel Planning                                            |        
+ 
 <br>
 <br>
-
 
 **SERVICES**                                                            
 
