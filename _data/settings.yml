@@ -1,6 +1,8 @@
 menu:
 - {name: 'work', url: '/work'}
 - {name: 'visualizations', url: '/visualizations'}
+- {name: 'sample work', url: '/sample-work'}
+- {name: 'photography', url: '/photography'}
 
 social:
 - {icon: 'github', link: 'https://github.com/aylinko'}
