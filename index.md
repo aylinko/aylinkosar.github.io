@@ -11,35 +11,36 @@ Other than the above, when I am not working on something, I enjoy taking a break
 
 
 
+
 **SERVICES**
 
----
+--
 
 Data Visualization
 
---- 
+-- 
 
 Data Analysis
 
-***
+**
 
 Tutor & Teach (Analytics, Programming, and Visualization)
 
-***
+**
 
 Research
 
-***
+**
 
 Writing
 
-***
+**
 
 Photography
 
-***
+**
 
 Travel Planning
 
-***
+**
 
