@@ -15,7 +15,6 @@ Now, I am interested in using my diverse skills, background, and abilities to pr
 **SERVICES**                                                            
 
 ---
-
 Data Visualization
 
 --- 
@@ -43,4 +42,28 @@ Photography
 Travel Planning
 
 --- 
+
+<br>
+<br>
+<br>
+
+**TECH**                                                            
+
+---
+
+R / R Studio
+
+--- 
+Python / Jupyter
+
+--- 
+
+Tableau
+
+--- 
+
+LaTex / Texmaker
+
+--- 
+
 
