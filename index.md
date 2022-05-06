@@ -11,21 +11,22 @@ If your interested, [reach out to me](mailto:akosar077@gmail.com)!
 
 <br>
 <br>
-<br>
+<center>
 
- SERVICES                                                   |            |            |      TECH         
-:----------------------------------------------------------:|:----------:|:----------:| :-----------------:
-  Data Visualization                                        |            |            |    R / R Studio     
-  Data Analysis                                             |            |            |    Python / Jupyter  
-  <sup>1</sup> Tutor or Teach                               |            |            |      Tableau          
-  Research                                                  |            |            |    LaTex / Texmaker  
-<sup>2</sup>  Writing                                                   |            |            |      
-  Photography                                               |            |            |     
-  Travel Planning                                           |            |            |
+ SERVICES                                                   |  TECH         
+:----------------------------------------------------------:| :-----------------:
+  Data Visualization                                        |  R / R Studio     
+  Data Analysis                                             |  Python / Jupyter  
+  <sup>1</sup> Tutor or Teach                               |  Tableau          
+  Research                                                  |    LaTex / Texmaker  
+<sup>2</sup>  Writing                                       |      
+  Photography                                               |         
+  Travel Planning                                           |    
 
  
  <br>
  <sup> 1. Specifically in analytics, programming, or data visualization.</sup> <br>
  <sup> 2. Other than Google Docs/Sheets and Word/Excel, I use the following tools for writing and research collection not listed above: [Bear](https://bear.app/), [Craft](https://www.craft.do/), [Milanote](https://milanote.com/), and [Hypothes.is](https://web.hypothes.is/). </sup> <br>
 
+</center>
 <br>
