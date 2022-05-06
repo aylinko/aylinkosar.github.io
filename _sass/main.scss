@@ -2,9 +2,16 @@
 
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
-$bodyFont:  "DM Sans", "Alice", Helvetica, sans-serif);
-
+$bodyFont: -apple-system, BlinkMacSystemFont,"Segoe UI", Helvetica, Arial, sans-serif;
 $linkColor: #212529 !important;
+
+element.style {
+  font-family: "DM Sans", sans-serif;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+font-family: "Alice", serif;
+}
 
 body a {
   Color: $linkColor;
