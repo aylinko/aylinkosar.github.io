@@ -6,8 +6,11 @@ $linkColor: #212529 !important;
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Inter', sans-serif; 
-  font-weight: 600 !important; 
 } 
+
+.fw-bold {
+    font-weight: 600!important;
+}
 
 body {
   font-family: 'DM Sans', sans-serif; 
